@@ -31,14 +31,6 @@ Upload a CSV and the app runs these analyses:
 
 ---
 
-## 🖼️ Screenshots
-
-<!-- Add screenshots to a /screenshots folder and update the paths -->
-![Overall Data Quality](screenshots/overall_quality.png)
-![Dataset Overview](screenshots/overview.png)
-
----
-
 ## 🛠️ Tech Stack
 
 - **Python 3.9+**
